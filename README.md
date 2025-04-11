@@ -8,10 +8,13 @@ BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation.
 
 **[[Paper](https://arxiv.org/abs/2303.11675)][[Project Page](https://semanticdh.github.io/BoPR/)]**
 
+We proposed a new version, RopeTP, based on BoPR, which has a better effect and stable global transformation !!!
+
 # 🔥(WACV 2025) RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior
 
 ## News :triangular_flag_on_post:
 - [2024/10/27] **RopeTP is on [arXiv](https://arxiv.org/abs/2410.20358) now.**
+- [2024/9/30] **RopeTP is accepted by WACV 2025.**
 - [2023/03/21] **BoPR is on [arXiv](https://arxiv.org/abs/2303.11675) now.**
 
 ## Codes
