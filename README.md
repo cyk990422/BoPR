@@ -22,8 +22,14 @@ BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation.
 ## Codes
 Coming soon!
 
-# Video
+## Citation
+```
+@article{cheng2023bopr,
+  title={Bopr: Body-aware part regressor for human shape and pose estimation},
+  author={Cheng, Yongkang and Huang, Shaoli and Ning, Jifeng and Shan, Ying},
+  journal={arXiv preprint arXiv:2303.11675},
+  year={2023}
+}
 
-
-
+```
 
