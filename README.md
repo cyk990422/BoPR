@@ -8,10 +8,18 @@ BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation.
 
 **[[Paper](https://arxiv.org/abs/2303.11675)][[Project Page](https://semanticdh.github.io/BoPR/)]**
 
+![Image](https://github.com/user-attachments/assets/496b85a4-e20b-46e4-b796-c2f484c912f2)
+
 ## News :triangular_flag_on_post:
 - [2023/03/21] **BoPR is on [arXiv](https://arxiv.org/abs/2303.11675) now.**
 
+# Method
+
+
+
 ## Codes
 Coming soon!
+
+
 
 
