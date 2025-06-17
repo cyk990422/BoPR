@@ -14,7 +14,7 @@ ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Image
 ![Image](https://github.com/user-attachments/assets/b60c1786-2cdf-4436-928a-7549c2e53deb)
 
 ## News :triangular_flag_on_post:
-- [2023/03/21] **ReBaR is accepted by Pattern Recognition.**
+- [2025/06/16] **ReBaR is accepted by Pattern Recognition.**
 - [2023/03/21] **BoPR is on [arXiv](https://arxiv.org/abs/2303.11675) now.**
 
 # Method
