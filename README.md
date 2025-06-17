@@ -1,5 +1,5 @@
 # New Version is coming !
-# ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images (Pattern Recognition)
+# ReBaR: Reference-Based Reasoning for Robust Pose Estimation from Monocular Images (Pattern Recognition 2024)
 
 This is the official repository of the ReBaR.
 
