@@ -1,6 +1,6 @@
 # BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation
 
-This is the official repository of the BoPR & RopeTP.
+This is the official repository of the BoPR.
 
 BoPR: Body-aware Part Regressor for Human Shape and Pose Estimation.
 
